@@ -34,6 +34,8 @@ A high-performance C++ console application designed to simulate a real-world air
 * **Abstraction:** Using abstract classes to define a blueprint for various Manager modules.
 
 ---
+## Authors:
+* **Developed in collaboration with @codeBilal-exe**
 
 ## 📁 Project Structure
 ```text
@@ -50,5 +52,3 @@ data/            # .txt or .csv files for data persistence
 g++ -std=c++17 Main.cpp -o AeroManager -Isrc
 ./AeroManager
 
-## Authors:
-* **Developed in collaboration with @codeBilal-exe**
