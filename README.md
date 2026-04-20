@@ -49,3 +49,6 @@ data/            # .txt or .csv files for data persistence
 ```bash
 g++ -std=c++17 Main.cpp -o AeroManager -Isrc
 ./AeroManager
+
+## Authors:
+* **Developed in collaboration with @codeBilal-exe**
