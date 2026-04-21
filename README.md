@@ -34,6 +34,7 @@ A high-performance C++ console application designed to simulate a real-world air
 * **Abstraction:** Using abstract classes to define a blueprint for various Manager modules.
 
 ---
+
 ## 👨‍💻Author
 
 **🔹Muhammad Usman Khan**<br>
@@ -42,6 +43,14 @@ A high-performance C++ console application designed to simulate a real-world air
 **🔹Muhammad Bilal**<br>
   GitHub: https://github.com/codeBilal-exe
 
+---
+
+## ⚙️ Setup & Run
+```bash
+g++ -std=c++17 Main.cpp -o AeroManager -Isrc
+./AeroManager
+
+---
 ## 📁 Project Structure
 ```text
 src/
@@ -52,8 +61,4 @@ src/
 └── Main.cpp     # Application entry point
 data/            # .txt or .csv files for data persistence
 
-## ⚙️ Setup & Run
-```bash
-g++ -std=c++17 Main.cpp -o AeroManager -Isrc
-./AeroManager
 
