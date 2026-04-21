@@ -45,12 +45,6 @@ A high-performance C++ console application designed to simulate a real-world air
 
 ---
 
-## ⚙️ Setup & Run
-```bash
-g++ -std=c++17 Main.cpp -o AeroManager -Isrc
-./AeroManager
-
----
 ## 📁 Project Structure
 ```text
 src/
@@ -60,5 +54,6 @@ src/
 ├── ui/          # Console-based interface and menu logic
 └── Main.cpp     # Application entry point
 data/            # .txt or .csv files for data persistence
+
 
 
