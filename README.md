@@ -34,8 +34,13 @@ A high-performance C++ console application designed to simulate a real-world air
 * **Abstraction:** Using abstract classes to define a blueprint for various Manager modules.
 
 ---
-## Authors:
-* **Developed in collaboration with @codeBilal-exe**
+## 👨‍💻Author
+
+**🔹Muhammad Usman Khan**<br>
+  GitHub: https://github.com/Usman1dev<br>
+  LinkedIn: https://www.linkedin.com/in/usman0310<br>
+**🔹Muhammad Bilal**<br>
+  GitHub: https://github.com/codeBilal-exe
 
 ## 📁 Project Structure
 ```text
