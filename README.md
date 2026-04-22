@@ -46,7 +46,7 @@ src/
 data/            # .txt or .csv files for data persistence
 ```
 ---
-## Working Screenshots:
+## 📸 Working Screenshots:
 <br>
 
 <table align="center">
